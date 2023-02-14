@@ -1,0 +1,20 @@
+.List {
+  background-color: aquamarine;
+  overflow-x: hidden;
+  overflow-y: auto;
+  min-height: 50vh;
+  max-height: 55vh;
+  margin: 3rem 0;
+  min-width: 50vw;
+  display: flex;
+}
+.List-Item {
+  list-style: none;
+  min-height: 2.6rem;
+  font-size: larger;
+  font-weight: 700;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.items {
+  display: flex;
+}
